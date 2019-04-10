@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_worker">Worker</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="send_fcm_error">Kesalahan dalam mengirim pesan ke FCM</string>
+    <string name="send_fcm_success">Mengirim pesan ke FCM Berhasil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Alarm -->
+    <string name="durasi">Durasi</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="run">Run</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Notifikasi -->
+    <string name="judul">Judul</string>
+    <string name="konten">Konten</string>
+    <string name="kirim">Kirim</string>
+</resources>

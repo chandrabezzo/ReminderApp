@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1032553025979",
+    "firebase_url": "https://utama-c18fe.firebaseio.com",
+    "project_id": "utama-c18fe",
+    "storage_bucket": "utama-c18fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032553025979:android:fd79637fe5ecdde6",
+        "android_client_info": {
+          "package_name": "com.bezzo.utama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032553025979-kpp9q3g6b94uqu1799ms0f5ievp16fpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bezzo.utama",
+            "certificate_hash": "264218ae8a2a2e8d976e3e84bdf66aa3c4faa02d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uvU1Ht_6jr8Sva4IGU58vmp_BuKcQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032553025979-cr4nfq65i304r7sahp6u6tbdhr0fbmr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
